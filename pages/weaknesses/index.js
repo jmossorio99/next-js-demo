@@ -15,7 +15,7 @@ const inedx = () => {
           description="Once all Hiveguard babies are killed, it open and show it's antennaes, hitting them dealts a great damage to it."
         />
         <Card
-          img="https://media.tenor.com/images/0af393a439cb283329e119034e6dabdd/tenor.png"
+          img="https://i.imgur.com/Dnfsuny.png"
           name="Main weak point"
           description="When all the antennaes are destroyed the Dreadnought open it's shell, every hit in that exposed zone will deal massive damage with maximun effect."
         />
