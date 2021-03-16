@@ -1,0 +1,13 @@
+.title-image{
+    max-width: 400px;
+    max-height: 200px;
+    padding-bottom: 20px;
+}
+
+.container{
+    text-align: center;
+    padding-bottom: 20px;
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+}
